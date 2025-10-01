@@ -34,4 +34,5 @@ This project analyzes aviation accident data to support strategic decision-makin
 1. Clone this repository:  
    ```bash
    git clone [(https://github.com/Dawa-Jarso/Project1/tree/master)]
-    cd aviation-accident-analysis
+    cd Aviation_accident_risk_analysis
+   open notebook
